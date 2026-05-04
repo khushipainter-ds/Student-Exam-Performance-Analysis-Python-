@@ -16,9 +16,9 @@ Python | Pandas | NumPy | Matplotlib | Seaborn | Jupyter Notebook
 ## Files
 | File | Description |
 |------|-------------|
-| `student_exam_analysis.ipynb` | Main analysis notebook |
+| `Student_Exam_score -Python.ipynb` | Main analysis notebook |
 | `Student_Exam_Score dataset.csv` | Student performance dataset (Kaggle) |
-| `visualizations/` | Folder with all chart screenshots |
+| `student exam score presentation` | Presentation |
 
 ## Analysis Steps
 1. Data Loading & Exploration
